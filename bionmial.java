@@ -1,5 +1,4 @@
 
-import java.util.*;
 public class bionmial {
 
     public static int factorial(int n) {
